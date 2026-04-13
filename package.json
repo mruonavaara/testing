@@ -4,7 +4,7 @@
   "description": "JSON-server testing",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server db.json5"
+    "start": "json-server ./db.json5"
   },
   "repository": {
     "type": "git",
